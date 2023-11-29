@@ -43,5 +43,42 @@ statistics data for all projects
 
 [DeftGPT Python Backend](https://yuanrui-mdt-info.github.io/git-statistics/deftgpt-service)
 
-[IT](https://yuanrui-mdt-info.github.io/git-statistics/it)
+[Nekteck_it_repo](https://yuanrui-mdt-info.github.io/git-statistics/it)
+
+[Clevast_manager_vue] (https://yuanrui-mdt-info.github.io/git-statistics/Clevast_manager_vue)
+
+[HF_firmware] (https://yuanrui-mdt-info.github.io/git-statistics/HF_firmware)
+
+[cbs-middleware] (https://yuanrui-mdt-info.github.io/git-statistics/cbs-middleware)
+
+[crownful-h5] (https://yuanrui-mdt-info.github.io/git-statistics/crownful-h5)
+
+[clevast-h5] (https://yuanrui-mdt-info.github.io/git-statistics/clevast-h5)
+
+[h5_zagmatic] (https://yuanrui-mdt-info.github.io/git-statistics/h5_zagmatic)
+
+[medcursor-h5] (https://yuanrui-mdt-info.github.io/git-statistics/medcursor-h5)
+
+[medcursor_manager_vue] (https://yuanrui-mdt-info.github.io/git-statistics/medcursor_manager_vue)
+
+[crownful_manager_vue] (https://yuanrui-mdt-info.github.io/git-statistics/crownful_manager_vue)
+
+[crownful_manager] (https://yuanrui-mdt-info.github.io/git-statistics/crownful_manager)
+
+[deftship-freight-app] (https://yuanrui-mdt-info.github.io/git-statistics/deftship-freight-app)
+
+[android-ota] (https://yuanrui-mdt-info.github.io/git-statistics/android-ota)
+
+[deftship_h5] (https://yuanrui-mdt-info.github.io/git-statistics/deftship_h5)
+
+[nekteck-cloud-task] (https://yuanrui-mdt-info.github.io/git-statistics/nekteck-cloud-task)
+
+[nekteck_manager_vue] (https://yuanrui-mdt-info.github.io/git-statistics/nekteck_manager_vue)
+
+
+
+
+
+
+
 
