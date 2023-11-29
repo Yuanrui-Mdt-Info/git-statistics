@@ -43,5 +43,5 @@ statistics data for all projects
 
 [DeftGPT Python Backend](https://yuanrui-mdt-info.github.io/git-statistics/deftgpt-service)
 
-[IT](https://yuanrui-mdt-info.github.io/git-statistics/it-repo)
+[IT](https://yuanrui-mdt-info.github.io/git-statistics/it)
 
